@@ -20,3 +20,23 @@ Diploma Starters Persist: Diploma students are more likely to have lower iterati
 Low-Iteration Group Outperforms: Students completing projects in ≤3 iterations maintain the highest retention rates.
 
 Data Science: Data science has the opposite trend where high-iteration students actually stay more engaged.
+
+🧪 Methods Used
+
+Grouping & Aggregation: Used pandas to segment students by iteration counts and diploma status.
+
+Visualization: Created line plots, box plots, and bar charts using seaborn and matplotlib.
+
+Statistical Testing: Welch’s t-test (scipy.stats) compared iteration counts between diploma and non-diploma students.
+
+Key libraries used:
+
+pandas
+
+seaborn
+
+matplotlib
+
+scipy
+
+tabulate
